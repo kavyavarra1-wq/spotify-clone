@@ -16,7 +16,7 @@ A Spotify-inspired web UI built using **HTML** and **CSS**.
 
 ## 🌐 Live Demo
 
-[View Live Project](https://kavyavarra1-wq.github.io/spotify-clone/)
+[View Live Project]( https://kavyavarra1-wq.github.io/spotify-clone/)
 
 ## How to Run
 1. Clone the repository.
