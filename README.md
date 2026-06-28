@@ -14,6 +14,10 @@ A Spotify-inspired web UI built using **HTML** and **CSS**.
 - Font Awesome
 - Google Fonts
 
+## 🌐 Live Demo
+
+[View Live Project](https://kavyavarra1-wq.github.io/spotify-clone/)
+
 ## How to Run
 1. Clone the repository.
 2. Open `index.html` in your browser.
